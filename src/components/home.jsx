@@ -16,7 +16,7 @@ const home = () => {
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hello I'm<h1>Jathin&nbsp;Muppala&nbsp;&nbsp;
                </h1><h2 className='mr-2'>&nbsp;&nbsp;&nbsp;&nbsp;Web&nbsp;Developer</h2>
                <div className='ml-2 btn1'>
-                    <a href="https://res.cloudinary.com/dgzuiurhr/raw/upload/v1739284501/MJathin-Resume_r5mdjx.docx" target='_blanck'><button className='button'  >Download CV</button></a>
+                    <a href="https://res.cloudinary.com/dgzuiurhr/raw/upload/v1746205150/JathinMuppalaResume_3_jflrg0.docx" target='_blanck'><button className='button'  >Download CV</button></a>
                     <button className='button2'><Link activeClass='active' to="about"  spy={true} smooth={true} offset={-100} duration={500}>About Me</Link></button>
                     
                </div>

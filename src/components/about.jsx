@@ -12,8 +12,9 @@ const about = () => {
             <div className='contenta1'>
                 <img src='https://res.cloudinary.com/dgzuiurhr/image/upload/v1677358663/Screenshot_2022-12-11-15-37-03-33_1c337646f29875672b5a61192b9010f9_npiy75.jpg' className='image1'/>
                 <div>
-                    <p style={{color:"gray"}}>Recent Computer Science graduate with a strong foundation in web development.<br/>
-                     Proficient in HTML, CSS, JavaScript, and React.js, demonstrated through multiple web projects.<br /> Seeking a challenging role in web development to leverage technical skills and expand expertise in backend technologies</p>
+                    <p style={{color:"gray"}}> I am a motivated and detail-oriented Computer Science graduate with a strong foundation in web development and programming.<br /> I 
+am passionate about leveraging my technical skills to develop efficient and user-friendly applications. <br />I am seeking an opportunity to 
+contribute to a dynamic organization while growing professionally.</p>
                     <div>
                         <h2 style={{textDecorationLine:"underline"}}>Education</h2>
                         <p>2020 - 2024</p>
