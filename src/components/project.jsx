@@ -23,7 +23,7 @@ const project = () => {
           <img src="https://res.cloudinary.com/dgzuiurhr/image/upload/v1746204015/Screenshot_2025-05-02_220839_eso5ot.png" className='image2' />
           <h3>Extract Text from PDF and Image</h3>
           <div className='overlay'>
-            <a href='https://ff34-2409-40f0-fc-3a1d-85a2-3487-ccae-cfdf.ngrok-free.app/' target='_blanck'><button className='button1 text'>Live Demo</button></a>
+            <a href='https://3af3-2409-40f0-f9-d77f-48d2-efa4-83f3-dec5.ngrok-free.app/' target='_blanck'><button className='button1 text'>Live Demo</button></a>
           </div>
           <p className='description'>AI app using GPT-4 and OCR to extract and query text from PDFs and images.<br />Technologies: Python, OpenCV, PyMuPDF, Tesseract</p>
         </div>
